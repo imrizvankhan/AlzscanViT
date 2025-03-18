@@ -1,5 +1,5 @@
-# Project Title: AlzScan-ViT: Alzheimer’s Disease Detection from MRI Scans Using Transfer
-Learning with Vision Transformer
+# Project Title: 'AlzScan-ViT: Alzheimer’s Disease Detection from MRI Scans Using Transfer Learning with Vision Transformer'
+
 This work present a transfer learning based Vision transformer based approach for early diagnosis of alzhmier disease using MRI images. 
 The implementation is available in pytorch framework. This is a transfer learning based framework and is fine tuned on MRI-slices.
 Just create folders and images. 
@@ -33,9 +33,25 @@ transformers              4.45.2           py39haa95532_0
 AlzScan-ViT:
 Flow diagram for the project:
 
-![Flow Diagram](https://raw.githubusercontent.com/imrizvankhan/AlzScan-ViT/main/alzscan-viT/flow%20diagram.png)
+![Flow Diagram](https://github.com/imrizvankhan/AlzscanViT/blob/main/flow%20diagram%201.png)
 
 AlzScan-ViT: Network diagram for the project:
 
-![Network Diagram](https://raw.githubusercontent.com/imrizvankhan/AlzScan-ViT/main/alzscan-viT/network.png)
+![Network Diagram](https://github.com/imrizvankhan/AlzscanViT/blob/main/network.png)
+
+If you use this work or code please cite these works, Thanks
+
+1- AlzScan-ViT: Alzheimer’s Disease Detection from MRI Scans Using Transfer
+2-A transfer learning approach for multiclass classification of Alzheimer's disease using MRI images
+
+@article{khan2023transfer,
+  title={A transfer learning approach for multiclass classification of Alzheimer's disease using MRI images},
+  author={Khan, Rizwan and Akbar, Saeed and Mehmood, Atif and Shahid, Farah and Munir, Khushboo and Ilyas, Naveed and Asif, M and Zheng, Zhonglong},
+  journal={Frontiers in Neuroscience},
+  volume={16},
+  pages={1050777},
+  year={2023},
+  publisher={Frontiers Media SA}
+}
+
 
